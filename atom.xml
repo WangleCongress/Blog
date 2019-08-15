@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-08-14T07:19:31.439Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://wanglecongress.github.io/Blog/"/>
+  <updated>2019-08-15T08:38:07.264Z</updated>
+  <id>https://wanglecongress.github.io/Blog/</id>
   
   <author>
     <name>王聪</name>
@@ -17,9 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>two</title>
+    <link href="https://wanglecongress.github.io/Blog/2019/08/16/two/"/>
+    <id>https://wanglecongress.github.io/Blog/2019/08/16/two/</id>
+    <published>2019-08-15T16:38:07.000Z</published>
+    <updated>2019-08-15T08:38:07.264Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>one</title>
+    <link href="https://wanglecongress.github.io/Blog/2019/08/16/one/"/>
+    <id>https://wanglecongress.github.io/Blog/2019/08/16/one/</id>
+    <published>2019-08-15T16:37:01.000Z</published>
+    <updated>2019-08-15T08:37:01.576Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/14/hello-world/"/>
-    <id>http://yoursite.com/2019/08/14/hello-world/</id>
+    <link href="https://wanglecongress.github.io/Blog/2019/08/14/hello-world/"/>
+    <id>https://wanglecongress.github.io/Blog/2019/08/14/hello-world/</id>
     <published>2019-08-14T07:19:31.439Z</published>
     <updated>2019-08-14T07:19:31.439Z</updated>
     
